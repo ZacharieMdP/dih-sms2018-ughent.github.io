@@ -1,4 +1,4 @@
-Amenah Fairouz Abdulkarim
+﻿Amenah Fairouz Abdulkarim
 Anthony T. Quickel
 Christian Mauder
 Konrad Hirschler
@@ -14,7 +14,7 @@ Stephanie Luescher
 Víctor De Castro León
 Vincent Chen
 Kenneth Goudie
-Zacharie de Pierrepont
+Zacharie de Pierrepont Gent
 Mohamed Maslouh
 Maya Termonia
 Maxim Romanov
